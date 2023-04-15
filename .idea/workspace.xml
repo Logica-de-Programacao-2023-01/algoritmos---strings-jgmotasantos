@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c408611-7c95-4fa8-98f7-41d8f86acbbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Algoritmosstrings12.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algoritmosstrings14.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algoritmosstrings9.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritmosstrings10.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritmosstrings11.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritmosstrings13.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritmosstrings15.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritmosstrings17.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritmosstrings18.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritmosstrings19.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritmosstrings8.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
